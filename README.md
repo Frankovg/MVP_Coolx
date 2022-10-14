@@ -4,7 +4,7 @@ Este proyecto es una aplicación web realizada por un [equipo de desarrolladores
 <br/>
 Vídeo presentación en YouTube: [ ver ](https://www.youtube.com/watch?v=BGOv_VQLyyU&t=595s&ab_channel=Socratech).
 
-[ spanish ](https://youtu.be/kVVbpfFj-yU).
+[ ver ]([https://youtu.be/kVVbpfFj-yU](https://www.youtube.com/watch?v=BGOv_VQLyyU&t=595s&ab_channel=Socratech)).
 ## Tabla de Contenidos
 * [Información General](#informacion-general)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
