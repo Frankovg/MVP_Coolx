@@ -1,8 +1,6 @@
 # Coolx
 Este proyecto es una aplicación web realizada por un [equipo de desarrolladores](#contacto) como Proyecto Final de Bootcamp para la empresa Coolx.<br/>
  >"En Coolx nos encargamos de optimizar el  registro y la evaluación de tus proyectos forestales. Mediante teledetección y big data, disminuimos el tiempo necesario para que tu consultoría medioambiental genere créditos de carbono".
- <br/>
->Vídeo presentación en YouTube: [ VER ](https://youtu.be/BGOv_VQLyyU).
 <br/>
 
 
@@ -16,7 +14,7 @@ Este proyecto es una aplicación web realizada por un [equipo de desarrolladores
 * [Contacto](#contacto)
 * [Licencia](#licencia)
 
-
+Vídeo presentación en YouTube: [ VER ](https://youtu.be/BGOv_VQLyyU).
 ## Información General
 - El administrador puede crear proyectos, modificarlos, cambiar su estado y eliminarlos; también puede buscar y ordenar proyectos por nombre, país y ganancias. Además, puede crear usuarios, ver un listado de los mismos y asignarles proyectos.
 - El usuario puede registrarse, editar su perfil, crear y editar sus propios proyectos y ver un listado de los mismos; también puede ver un listado de los proyectos disponibles para invertir y realizar la compra de estos, además de de ponerse en contacto con la empresa.
