@@ -2,7 +2,7 @@
 Este proyecto es una aplicación web realizada por un [equipo de desarrolladores](#contacto) como Proyecto Final de Bootcamp para la empresa Coolx.<br/>
  >"En Coolx nos encargamos de optimizar el  registro y la evaluación de tus proyectos forestales. Mediante teledetección y big data, disminuimos el tiempo necesario para que tu consultoría medioambiental genere créditos de carbono".
 <br/>
-Vídeo presentación en YouTube: [ VER ](https://www.youtube.com/watch?v=BGOv_VQLyyU&t=595s&ab_channel=Socratech)
+Vídeo presentación en YouTube: [VER](https://www.youtube.com/watch?v=BGOv_VQLyyU&t=595s&ab_channel=Socratech)
 
 
 ## Tabla de Contenidos
