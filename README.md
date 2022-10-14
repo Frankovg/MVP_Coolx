@@ -77,7 +77,7 @@ Vista administrador
 <br/>
 2 - Crear el archivo .env (no disponible en este repositorio) en el directorio /server y completarlo de la siguiente forma:
 <br/>
-(https://github.com/Frankovg/proyecto_final_socratech/blob/master/ENV.png)
+!(https://github.com/Frankovg/proyecto_final_socratech/blob/master/ENV.png)
 <br/>
 3 - En el archivo /server/authController.js sustituir el email info@coolx.earth por el que vaya a utilizarse para recibir las solicitudes de contacto desde la web.
 <br/>
