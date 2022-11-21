@@ -1,5 +1,5 @@
 # Coolx
-Este proyecto es una aplicación web realizada por un [equipo de desarrolladores](#contacto) como Proyecto Final de Bootcamp para la empresa Coolx.<br/>
+Este proyecto es una aplicación web realizada por un [equipo de desarrolladores](#contacto) para la empresa Coolx.<br/>
  >"En Coolx nos encargamos de optimizar el  registro y la evaluación de tus proyectos forestales. Mediante teledetección y big data, disminuimos el tiempo necesario para que tu consultoría medioambiental genere créditos de carbono".
 <br/>
 
@@ -109,7 +109,6 @@ En la tabla **project_info**, añadir el proyecto recién modificado rellenando 
 
 
 ## Agradecimientos
-- Este proyecto ha sido realizado como parte del Bootcamp Fullstack Web Developer en [Socratech](https://socratech.es/).
 - Agradecimientos a los formadores Carlos Yañez, Miriam Segura y Santigo Peña por su ayuda y dedicación.
 - Agradecimientos a la empresa Coolx por confiar en nosotros.
 
